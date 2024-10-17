@@ -1,2 +1,0 @@
-# annatyu.github.io
-project
